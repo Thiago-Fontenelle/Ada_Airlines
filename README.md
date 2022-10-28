@@ -14,14 +14,15 @@ O projeto é composto de funções que geram(IDs, aivões), funções populam as
 
 <h2>Bibliotecas</h2>
 
-• random(https://docs.python.org/3/library/random.html)
-• time(https://docs.python.org/3/library/time.html)
-• datetime(https://docs.python.org/3/library/datetime.html)
-• string(https://docs.python.org/pt-br/3/library/string.html)
-• pandas(https://pandas.pydata.org/docs/)
+• [random](https://docs.python.org/3/library/random.html)
+• [time](https://docs.python.org/3/library/time.html)
+• [datetime](https://docs.python.org/3/library/datetime.html)
+• [string](https://docs.python.org/pt-br/3/library/string.html)
+• [pandas](https://pandas.pydata.org/docs/)
 
 <h2>Links Úteis</h2>
 
-• Enunciado integral do projeto(https://drive.google.com/file/d/1T64GSa450_to8VUZMhkJGQvN73GN6tyF/view?usp=sharing)
-• Apresentação do trabalho(https://drive.google.com/file/d/1T64GSa450_to8VUZMhkJGQvN73GN6tyF/view?usp=sharing)
-• Fluxo algorítmico(https://drive.google.com/file/d/1bmdbq6XtHC5Sn2X9V6gmnv8ZTwwhUKyt/view?usp=sharing)
+• [Enunciado integral do projeto](https://drive.google.com/file/d/1T64GSa450_to8VUZMhkJGQvN73GN6tyF/view?usp=sharing)
+• [Apresentação do trabalho](https://drive.google.com/file/d/1T64GSa450_to8VUZMhkJGQvN73GN6tyF/view?usp=sharing)
+• [Fluxo algorítmico](https://drive.google.com/file/d/1bmdbq6XtHC5Sn2X9V6gmnv8ZTwwhUKyt/view?usp=sharing)
+• [Professor](https://franklin390.github.io/)
